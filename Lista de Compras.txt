@@ -1,4 +1,6 @@
 Lista de Compras:
-1- Bolacha.
-2- Carne.
-3- Verdura.
+1- Bolacha. ok
+2- Carne.ok
+3- Verdura ok
+4- Leite.
+5- Arroz.
